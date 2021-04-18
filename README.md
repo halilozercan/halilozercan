@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  Working on everything Android related. My focus area is mostly architectural stuff like MVVM, Dagger, etc.
-- 🌱  Learning Jetpack Compose, Flutter. In my spare time I'm also learning PC building.
+- 🌱  Obsessed with Jetpack Compose. Getting ready for the next generation of the frontend.
 
 <!--
 **halilozercan/halilozercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

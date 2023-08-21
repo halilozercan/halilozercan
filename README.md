@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭  Working on everything Android related. My focus area is mostly architectural stuff like MVVM, Dagger, etc.
-- 🌱  Obsessed with Jetpack Compose. Getting ready for the next generation of the frontend.
+I'm currently working as a Software Engineer in Android Text Team at Google. 
 
 <!--
 **halilozercan/halilozercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
